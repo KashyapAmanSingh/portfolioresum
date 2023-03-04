@@ -18,8 +18,7 @@
        background-color: RGB(39,20,70) ;
     
        background-image: url(wall.jpeg);
-       
-       background-size: cover;
+       background-repeat: no-repeat;
 
      }
  
