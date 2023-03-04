@@ -19,6 +19,8 @@
     
        background-image: url(wall.jpeg);
        background-repeat: no-repeat;
+       background-size: cover;
+
 
      }
  
